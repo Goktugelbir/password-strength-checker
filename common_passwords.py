@@ -3,5 +3,5 @@ COMMON_PASSWORDS = [
     "1234567", "qwerty", "abc123", "password1", "111111",
     "123123", "admin", "letmein", "welcome", "monkey",
     "football", "iloveyou", "dragon", "sunshine", "princess"
-    "basketball","1234","123456"
+    "basketball","1234","654321"
 ]
